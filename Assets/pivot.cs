@@ -18,15 +18,6 @@ public class pivot : MonoBehaviour {
 
 	void OnCollisionEnter (Collision col){
 		Debug.Log ("collision works");
-		boxx.gameObject.renderer.material.color = Color.green;
-		if(col.collider.name == "collide_near"){
-			near = false;
-			boxx.gameObject.renderer.material.color = Color.green;
-		}
-		if (col.collider.name == "collide_far") {
-			far = false;
-			boxx.gameObject.renderer.material.color = Color.green;
-		}
 	}
 
 	// Update is called once per frame
