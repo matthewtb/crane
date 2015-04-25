@@ -30,15 +30,15 @@ public class pivot : MonoBehaviour {
 		}
 		if (Input.GetKey(KeyCode.UpArrow) && far == true) {
 			boxx.gameObject.renderer.material.color = Color.red;
-			boxx.gameObject.transform.Translate(transform.forward * (Time.deltaTime * -10),Space.World);
-			rope.gameObject.transform.Translate(transform.forward * (Time.deltaTime * -10),Space.World);
-			ball.gameObject.transform.Translate(transform.forward * (Time.deltaTime * -10),Space.World);
+			boxx.gameObject.transform.Translate(transform.forward * (Time.deltaTime * -30),Space.World);
+			rope.gameObject.transform.Translate(transform.forward * (Time.deltaTime * -30),Space.World);
+			ball.gameObject.transform.Translate(transform.forward * (Time.deltaTime * -30),Space.World);
 		}
 		if (Input.GetKey(KeyCode.DownArrow) && near == true) {
 			boxx.gameObject.renderer.material.color = Color.blue;
-			boxx.gameObject.transform.Translate(transform.forward * (Time.deltaTime * 10),Space.World);
-			rope.gameObject.transform.Translate(transform.forward * (Time.deltaTime * 10),Space.World);
-			ball.gameObject.transform.Translate(transform.forward * (Time.deltaTime * 10),Space.World);
+			boxx.gameObject.transform.Translate(transform.forward * (Time.deltaTime * 30),Space.World);
+			rope.gameObject.transform.Translate(transform.forward * (Time.deltaTime * 30),Space.World);
+			ball.gameObject.transform.Translate(transform.forward * (Time.deltaTime * 30),Space.World);
 		}
 	}
 }

@@ -62,6 +62,10 @@
      <Compile Include="Assets\OVR\Scripts\Util\OVRScreenFade.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRUGUI.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRVisionGuide.cs" />
+     <Compile Include="Assets\Objective Scripts\BlueController.cs" />
+     <Compile Include="Assets\Objective Scripts\BlueMovement.cs" />
+     <Compile Include="Assets\Objective Scripts\GrnController.cs" />
+     <Compile Include="Assets\Objective Scripts\GrnMovement.cs" />
      <Compile Include="Assets\ballAndRope.cs" />
      <Compile Include="Assets\ball_latch_script.cs" />
      <Compile Include="Assets\pivot.cs" />

@@ -11,10 +11,10 @@ public class ballAndRope : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetKey(KeyCode.A)) {
-			transform.localPosition += transform.up * 10 * Time.deltaTime;
+			transform.localPosition += transform.up * 30 * Time.deltaTime;
 		}
 		if (Input.GetKey(KeyCode.S)) {
-			transform.localPosition += transform.up * -10 * Time.deltaTime;
+			transform.localPosition += transform.up * -30 * Time.deltaTime;
 		}
 	}
 }
