@@ -1,10 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Objective Scripts/GrnController.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\OrnStop.cs">
     <Files>
-      <File FileName="Assets/pivot.cs" Line="14" Column="34" />
-      <File FileName="Assets/Objective Scripts/GrnController.cs" Line="9" Column="50" />
-      <File FileName="../Unity Project 1/Assets/Scripts/dropIt.cs" Line="20" Column="39" />
+      <File FileName="Assets\Objective Scripts\GrnController.cs" Line="18" Column="3" />
+      <File FileName="Assets\Objective Scripts\BlueController.cs" Line="13" Column="4" />
+      <File FileName="Assets\RedStop.cs" Line="6" Column="2" />
+      <File FileName="Assets\OrnStop.cs" Line="16" Column="38" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

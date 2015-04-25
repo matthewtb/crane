@@ -9,14 +9,17 @@ public class GrnController : MonoBehaviour {
 		GreenBox = GameObject.Find ("GreenBoxWrapper");
 
 		if (col.gameObject.name == "GreenCenterTent") {
-				GreenBox.gameObject.renderer.material.color = Color.blue;
+				
 				GreenBox.AddComponent("GrnMovement");
 		}
+		/*if (col.gameObject.name == "landing zone 1") {
+			GreenBox.gameObject.renderer.material.color = Color.gray;
+			Destroy(GetComponent("GrnController"));
+		}*/
 	}
-
 	void Start () {
 		GreenBox = GameObject.Find ("GreenBox");
-		GreenBox.gameObject.renderer.material.color = Color.red;
+
 	}
 	
 	// Update is called once per frame
