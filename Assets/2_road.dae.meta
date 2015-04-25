@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 7e20c9c3e74b04fc085af51c4ee0e0b0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bus_only_sign
+    100004: Bus_only_sign 1
+    100006: BusStop_Bench
+    100008: BusStop_Bench 1
+    100010: BusStop_Bench 2
+    100012: BusStop_Bench 3
+    100014: BusStop_Brace
+    100016: BusStop_Brace 1
+    100018: BusStop_Brace 10
+    100020: BusStop_Brace 11
+    100022: BusStop_Brace 12
+    100024: BusStop_Brace 13
+    100026: BusStop_Brace 14
+    100028: BusStop_Brace 15
+    100030: BusStop_Brace 16
+    100032: BusStop_Brace 17
+    100034: BusStop_Brace 2
+    100036: BusStop_Brace 3
+    100038: BusStop_Brace 4
+    100040: BusStop_Brace 5
+    100042: BusStop_Brace 6
+    100044: BusStop_Brace 7
+    100046: BusStop_Brace 8
+    100048: BusStop_Brace 9
+    100050: BusStop_Half
+    100052: BusStop_Half 1
+    100054: BusStop_Half 2
+    100056: BusStop_Half 3
+    100058: BusStop_Post
+    100060: BusStop_Post 1
+    100062: BusStop_Post 10
+    100064: BusStop_Post 11
+    100066: BusStop_Post 12
+    100068: BusStop_Post 13
+    100070: BusStop_Post 14
+    100072: BusStop_Post 15
+    100074: BusStop_Post 16
+    100076: BusStop_Post 17
+    100078: BusStop_Post 18
+    100080: BusStop_Post 19
+    100082: BusStop_Post 2
+    100084: BusStop_Post 20
+    100086: BusStop_Post 21
+    100088: BusStop_Post 22
+    100090: BusStop_Post 23
+    100092: BusStop_Post 3
+    100094: BusStop_Post 4
+    100096: BusStop_Post 5
+    100098: BusStop_Post 6
+    100100: BusStop_Post 7
+    100102: BusStop_Post 8
+    100104: BusStop_Post 9
+    100106: BusStop_Top
+    100108: BusStop_Top 1
+    100110: BusStop_Top 2
+    100112: BusStop_Top 3
+    100114: Domed_bus_stop_shelter
+    100116: Domed_bus_stop_shelter 1
+    100118: ID107
+    100120: ID107 1
+    100122: ID113
+    100124: ID113 1
+    100126: ID119
+    100128: ID119 1
+    100130: ID125
+    100132: ID125 1
+    100134: ID131
+    100136: ID131 1
+    100138: ID137
+    100140: ID137 1
+    100142: ID152
+    100144: ID152 1
+    100146: ID158
+    100148: ID158 1
+    100150: ID164
+    100152: ID164 1
+    100154: ID192
+    100156: ID192 1
+    100158: ID198
+    100160: ID198 1
+    100162: ID204
+    100164: ID204 1
+    100166: ID210
+    100168: ID210 1
+    100170: ID216
+    100172: ID216 1
+    100174: ID222
+    100176: ID222 1
+    100178: ID228
+    100180: ID228 1
+    100182: ID234
+    100184: ID234 1
+    100186: ID240
+    100188: ID240 1
+    100190: ID246
+    100192: ID246 1
+    100194: ID252
+    100196: ID252 1
+    100198: ID272
+    100200: ID272 1
+    100202: ID318
+    100204: ID33
+    100206: ID33 1
+    100208: ID331
+    100210: ID339
+    100212: ID347
+    100214: ID355
+    100216: ID363
+    100218: ID371
+    100220: ID384
+    100222: ID39
+    100224: ID39 1
+    100226: ID392
+    100228: ID400
+    100230: ID45
+    100232: ID45 1
+    100234: ID73
+    100236: ID73 1
+    100238: ID79
+    100240: ID79 1
+    100242: ID87
+    100244: ID87 1
+    100246: ID93
+    100248: ID93 1
+    100250: ID99
+    100252: ID99 1
+    100254: instance_0
+    100256: instance_1
+    100258: instance_1 1
+    100260: instance_10
+    100262: instance_10 1
+    100264: instance_10 2
+    100266: instance_10 3
+    100268: instance_11
+    100270: instance_11 1
+    100272: instance_11 2
+    100274: instance_11 3
+    100276: instance_12
+    100278: instance_12 1
+    100280: instance_12 2
+    100282: instance_12 3
+    100284: instance_13
+    100286: instance_13 1
+    100288: instance_14
+    100290: instance_14 1
+    100292: instance_15
+    100294: instance_15 1
+    100296: instance_16
+    100298: instance_16 1
+    100300: instance_17
+    100302: instance_18
+    100304: instance_18 1
+    100306: instance_19
+    100308: instance_2
+    100310: instance_2 1
+    100312: instance_20
+    100314: instance_3
+    100316: instance_3 1
+    100318: instance_4
+    100320: instance_4 1
+    100322: instance_4 2
+    100324: instance_4 3
+    100326: instance_5
+    100328: instance_5 1
+    100330: instance_5 2
+    100332: instance_5 3
+    100334: instance_6
+    100336: instance_6 1
+    100338: instance_6 2
+    100340: instance_6 3
+    100342: instance_7
+    100344: instance_7 1
+    100346: instance_7 2
+    100348: instance_7 3
+    100350: instance_8
+    100352: instance_8 1
+    100354: instance_8 2
+    100356: instance_8 3
+    100358: instance_9
+    100360: instance_9 1
+    100362: instance_9 2
+    100364: instance_9 3
+    100366: Post
+    100368: Post 1
+    400000: //RootNode
+    400002: Bus_only_sign
+    400004: Bus_only_sign 1
+    400006: BusStop_Bench
+    400008: BusStop_Bench 1
+    400010: BusStop_Bench 2
+    400012: BusStop_Bench 3
+    400014: BusStop_Brace
+    400016: BusStop_Brace 1
+    400018: BusStop_Brace 10
+    400020: BusStop_Brace 11
+    400022: BusStop_Brace 12
+    400024: BusStop_Brace 13
+    400026: BusStop_Brace 14
+    400028: BusStop_Brace 15
+    400030: BusStop_Brace 16
+    400032: BusStop_Brace 17
+    400034: BusStop_Brace 2
+    400036: BusStop_Brace 3
+    400038: BusStop_Brace 4
+    400040: BusStop_Brace 5
+    400042: BusStop_Brace 6
+    400044: BusStop_Brace 7
+    400046: BusStop_Brace 8
+    400048: BusStop_Brace 9
+    400050: BusStop_Half
+    400052: BusStop_Half 1
+    400054: BusStop_Half 2
+    400056: BusStop_Half 3
+    400058: BusStop_Post
+    400060: BusStop_Post 1
+    400062: BusStop_Post 10
+    400064: BusStop_Post 11
+    400066: BusStop_Post 12
+    400068: BusStop_Post 13
+    400070: BusStop_Post 14
+    400072: BusStop_Post 15
+    400074: BusStop_Post 16
+    400076: BusStop_Post 17
+    400078: BusStop_Post 18
+    400080: BusStop_Post 19
+    400082: BusStop_Post 2
+    400084: BusStop_Post 20
+    400086: BusStop_Post 21
+    400088: BusStop_Post 22
+    400090: BusStop_Post 23
+    400092: BusStop_Post 3
+    400094: BusStop_Post 4
+    400096: BusStop_Post 5
+    400098: BusStop_Post 6
+    400100: BusStop_Post 7
+    400102: BusStop_Post 8
+    400104: BusStop_Post 9
+    400106: BusStop_Top
+    400108: BusStop_Top 1
+    400110: BusStop_Top 2
+    400112: BusStop_Top 3
+    400114: Domed_bus_stop_shelter
+    400116: Domed_bus_stop_shelter 1
+    400118: ID107
+    400120: ID107 1
+    400122: ID113
+    400124: ID113 1
+    400126: ID119
+    400128: ID119 1
+    400130: ID125
+    400132: ID125 1
+    400134: ID131
+    400136: ID131 1
+    400138: ID137
+    400140: ID137 1
+    400142: ID152
+    400144: ID152 1
+    400146: ID158
+    400148: ID158 1
+    400150: ID164
+    400152: ID164 1
+    400154: ID192
+    400156: ID192 1
+    400158: ID198
+    400160: ID198 1
+    400162: ID204
+    400164: ID204 1
+    400166: ID210
+    400168: ID210 1
+    400170: ID216
+    400172: ID216 1
+    400174: ID222
+    400176: ID222 1
+    400178: ID228
+    400180: ID228 1
+    400182: ID234
+    400184: ID234 1
+    400186: ID240
+    400188: ID240 1
+    400190: ID246
+    400192: ID246 1
+    400194: ID252
+    400196: ID252 1
+    400198: ID272
+    400200: ID272 1
+    400202: ID318
+    400204: ID33
+    400206: ID33 1
+    400208: ID331
+    400210: ID339
+    400212: ID347
+    400214: ID355
+    400216: ID363
+    400218: ID371
+    400220: ID384
+    400222: ID39
+    400224: ID39 1
+    400226: ID392
+    400228: ID400
+    400230: ID45
+    400232: ID45 1
+    400234: ID73
+    400236: ID73 1
+    400238: ID79
+    400240: ID79 1
+    400242: ID87
+    400244: ID87 1
+    400246: ID93
+    400248: ID93 1
+    400250: ID99
+    400252: ID99 1
+    400254: instance_0
+    400256: instance_1
+    400258: instance_1 1
+    400260: instance_10
+    400262: instance_10 1
+    400264: instance_10 2
+    400266: instance_10 3
+    400268: instance_11
+    400270: instance_11 1
+    400272: instance_11 2
+    400274: instance_11 3
+    400276: instance_12
+    400278: instance_12 1
+    400280: instance_12 2
+    400282: instance_12 3
+    400284: instance_13
+    400286: instance_13 1
+    400288: instance_14
+    400290: instance_14 1
+    400292: instance_15
+    400294: instance_15 1
+    400296: instance_16
+    400298: instance_16 1
+    400300: instance_17
+    400302: instance_18
+    400304: instance_18 1
+    400306: instance_19
+    400308: instance_2
+    400310: instance_2 1
+    400312: instance_20
+    400314: instance_3
+    400316: instance_3 1
+    400318: instance_4
+    400320: instance_4 1
+    400322: instance_4 2
+    400324: instance_4 3
+    400326: instance_5
+    400328: instance_5 1
+    400330: instance_5 2
+    400332: instance_5 3
+    400334: instance_6
+    400336: instance_6 1
+    400338: instance_6 2
+    400340: instance_6 3
+    400342: instance_7
+    400344: instance_7 1
+    400346: instance_7 2
+    400348: instance_7 3
+    400350: instance_8
+    400352: instance_8 1
+    400354: instance_8 2
+    400356: instance_8 3
+    400358: instance_9
+    400360: instance_9 1
+    400362: instance_9 2
+    400364: instance_9 3
+    400366: Post
+    400368: Post 1
+    2300000: //RootNode
+    2300002: Bus_only_sign
+    2300004: Bus_only_sign 1
+    2300006: BusStop_Bench
+    2300008: BusStop_Bench 1
+    2300010: BusStop_Bench 2
+    2300012: BusStop_Bench 3
+    2300014: BusStop_Brace
+    2300016: BusStop_Brace 1
+    2300018: BusStop_Brace 10
+    2300020: BusStop_Brace 11
+    2300022: BusStop_Brace 12
+    2300024: BusStop_Brace 13
+    2300026: BusStop_Brace 14
+    2300028: BusStop_Brace 15
+    2300030: BusStop_Brace 16
+    2300032: BusStop_Brace 17
+    2300034: BusStop_Brace 2
+    2300036: BusStop_Brace 3
+    2300038: BusStop_Brace 4
+    2300040: BusStop_Brace 5
+    2300042: BusStop_Brace 6
+    2300044: BusStop_Brace 7
+    2300046: BusStop_Brace 8
+    2300048: BusStop_Brace 9
+    2300050: BusStop_Half
+    2300052: BusStop_Half 1
+    2300054: BusStop_Half 2
+    2300056: BusStop_Half 3
+    2300058: BusStop_Post
+    2300060: BusStop_Post 1
+    2300062: BusStop_Post 10
+    2300064: BusStop_Post 11
+    2300066: BusStop_Post 12
+    2300068: BusStop_Post 13
+    2300070: BusStop_Post 14
+    2300072: BusStop_Post 15
+    2300074: BusStop_Post 16
+    2300076: BusStop_Post 17
+    2300078: BusStop_Post 18
+    2300080: BusStop_Post 19
+    2300082: BusStop_Post 2
+    2300084: BusStop_Post 20
+    2300086: BusStop_Post 21
+    2300088: BusStop_Post 22
+    2300090: BusStop_Post 23
+    2300092: BusStop_Post 3
+    2300094: BusStop_Post 4
+    2300096: BusStop_Post 5
+    2300098: BusStop_Post 6
+    2300100: BusStop_Post 7
+    2300102: BusStop_Post 8
+    2300104: BusStop_Post 9
+    2300106: BusStop_Top
+    2300108: BusStop_Top 1
+    2300110: BusStop_Top 2
+    2300112: BusStop_Top 3
+    2300114: ID107
+    2300116: ID107 1
+    2300118: ID113
+    2300120: ID113 1
+    2300122: ID119
+    2300124: ID119 1
+    2300126: ID125
+    2300128: ID125 1
+    2300130: ID131
+    2300132: ID131 1
+    2300134: ID152
+    2300136: ID152 1
+    2300138: ID158
+    2300140: ID158 1
+    2300142: ID164
+    2300144: ID164 1
+    2300146: ID192
+    2300148: ID192 1
+    2300150: ID198
+    2300152: ID198 1
+    2300154: ID204
+    2300156: ID204 1
+    2300158: ID210
+    2300160: ID210 1
+    2300162: ID216
+    2300164: ID216 1
+    2300166: ID222
+    2300168: ID222 1
+    2300170: ID228
+    2300172: ID228 1
+    2300174: ID234
+    2300176: ID234 1
+    2300178: ID240
+    2300180: ID240 1
+    2300182: ID246
+    2300184: ID246 1
+    2300186: ID318
+    2300188: ID33
+    2300190: ID33 1
+    2300192: ID331
+    2300194: ID339
+    2300196: ID347
+    2300198: ID355
+    2300200: ID363
+    2300202: ID371
+    2300204: ID384
+    2300206: ID39
+    2300208: ID39 1
+    2300210: ID392
+    2300212: ID400
+    2300214: ID45
+    2300216: ID45 1
+    2300218: ID73
+    2300220: ID73 1
+    2300222: ID79
+    2300224: ID79 1
+    2300226: ID87
+    2300228: ID87 1
+    2300230: ID93
+    2300232: ID93 1
+    2300234: ID99
+    2300236: ID99 1
+    2300238: Post
+    2300240: Post 1
+    3300000: //RootNode
+    3300002: Bus_only_sign
+    3300004: Bus_only_sign 1
+    3300006: BusStop_Bench
+    3300008: BusStop_Bench 1
+    3300010: BusStop_Bench 2
+    3300012: BusStop_Bench 3
+    3300014: BusStop_Brace
+    3300016: BusStop_Brace 1
+    3300018: BusStop_Brace 10
+    3300020: BusStop_Brace 11
+    3300022: BusStop_Brace 12
+    3300024: BusStop_Brace 13
+    3300026: BusStop_Brace 14
+    3300028: BusStop_Brace 15
+    3300030: BusStop_Brace 16
+    3300032: BusStop_Brace 17
+    3300034: BusStop_Brace 2
+    3300036: BusStop_Brace 3
+    3300038: BusStop_Brace 4
+    3300040: BusStop_Brace 5
+    3300042: BusStop_Brace 6
+    3300044: BusStop_Brace 7
+    3300046: BusStop_Brace 8
+    3300048: BusStop_Brace 9
+    3300050: BusStop_Half
+    3300052: BusStop_Half 1
+    3300054: BusStop_Half 2
+    3300056: BusStop_Half 3
+    3300058: BusStop_Post
+    3300060: BusStop_Post 1
+    3300062: BusStop_Post 10
+    3300064: BusStop_Post 11
+    3300066: BusStop_Post 12
+    3300068: BusStop_Post 13
+    3300070: BusStop_Post 14
+    3300072: BusStop_Post 15
+    3300074: BusStop_Post 16
+    3300076: BusStop_Post 17
+    3300078: BusStop_Post 18
+    3300080: BusStop_Post 19
+    3300082: BusStop_Post 2
+    3300084: BusStop_Post 20
+    3300086: BusStop_Post 21
+    3300088: BusStop_Post 22
+    3300090: BusStop_Post 23
+    3300092: BusStop_Post 3
+    3300094: BusStop_Post 4
+    3300096: BusStop_Post 5
+    3300098: BusStop_Post 6
+    3300100: BusStop_Post 7
+    3300102: BusStop_Post 8
+    3300104: BusStop_Post 9
+    3300106: BusStop_Top
+    3300108: BusStop_Top 1
+    3300110: BusStop_Top 2
+    3300112: BusStop_Top 3
+    3300114: ID107
+    3300116: ID107 1
+    3300118: ID113
+    3300120: ID113 1
+    3300122: ID119
+    3300124: ID119 1
+    3300126: ID125
+    3300128: ID125 1
+    3300130: ID131
+    3300132: ID131 1
+    3300134: ID152
+    3300136: ID152 1
+    3300138: ID158
+    3300140: ID158 1
+    3300142: ID164
+    3300144: ID164 1
+    3300146: ID192
+    3300148: ID192 1
+    3300150: ID198
+    3300152: ID198 1
+    3300154: ID204
+    3300156: ID204 1
+    3300158: ID210
+    3300160: ID210 1
+    3300162: ID216
+    3300164: ID216 1
+    3300166: ID222
+    3300168: ID222 1
+    3300170: ID228
+    3300172: ID228 1
+    3300174: ID234
+    3300176: ID234 1
+    3300178: ID240
+    3300180: ID240 1
+    3300182: ID246
+    3300184: ID246 1
+    3300186: ID318
+    3300188: ID33
+    3300190: ID33 1
+    3300192: ID331
+    3300194: ID339
+    3300196: ID347
+    3300198: ID355
+    3300200: ID363
+    3300202: ID371
+    3300204: ID384
+    3300206: ID39
+    3300208: ID39 1
+    3300210: ID392
+    3300212: ID400
+    3300214: ID45
+    3300216: ID45 1
+    3300218: ID73
+    3300220: ID73 1
+    3300222: ID79
+    3300224: ID79 1
+    3300226: ID87
+    3300228: ID87 1
+    3300230: ID93
+    3300232: ID93 1
+    3300234: ID99
+    3300236: ID99 1
+    3300238: Post
+    3300240: Post 1
+    4300000: SketchUp
+    4300002: ID318
+    4300004: ID331
+    4300006: ID339
+    4300008: ID347
+    4300010: ID355
+    4300012: ID363
+    4300014: ID371
+    4300016: ID384
+    4300018: ID392
+    4300020: ID400
+    4300022: BusStop_Brace
+    4300024: BusStop_Post
+    4300026: BusStop_Half
+    4300028: ID73
+    4300030: ID79
+    4300032: ID87
+    4300034: ID93
+    4300036: ID99
+    4300038: ID107
+    4300040: ID113
+    4300042: ID119
+    4300044: ID125
+    4300046: ID131
+    4300048: BusStop_Top
+    4300050: ID33
+    4300052: ID39
+    4300054: ID45
+    4300056: BusStop_Brace
+    4300058: BusStop_Half
+    4300060: ID192
+    4300062: ID198
+    4300064: ID204
+    4300066: ID210
+    4300068: ID216
+    4300070: ID222
+    4300072: ID228
+    4300074: ID234
+    4300076: ID240
+    4300078: ID246
+    4300080: BusStop_Top
+    4300082: ID152
+    4300084: ID158
+    4300086: ID164
+    4300088: BusStop_Post
+    4300090: BusStop_Bench
+    4300092: Bus_only_sign
+    4300094: Post
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

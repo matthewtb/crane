@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: ca310f045e85a424b886147be9f3aeb3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ID104
+    100004: ID112
+    100006: ID30
+    100008: ID43
+    100010: ID51
+    100012: ID59
+    100014: ID67
+    100016: ID75
+    100018: ID83
+    100020: ID91
+    100022: instance_0
+    100024: instance_1
+    100026: instance_2
+    100028: instance_3
+    100030: instance_4
+    100032: instance_5
+    100034: Single_parking_meter
+    100036: Single_parking_meter 1
+    100038: Single_parking_meter 2
+    100040: Single_parking_meter 3
+    100042: Single_parking_meter 4
+    100044: Single_parking_meter 5
+    400000: //RootNode
+    400002: ID104
+    400004: ID112
+    400006: ID30
+    400008: ID43
+    400010: ID51
+    400012: ID59
+    400014: ID67
+    400016: ID75
+    400018: ID83
+    400020: ID91
+    400022: instance_0
+    400024: instance_1
+    400026: instance_2
+    400028: instance_3
+    400030: instance_4
+    400032: instance_5
+    400034: Single_parking_meter
+    400036: Single_parking_meter 1
+    400038: Single_parking_meter 2
+    400040: Single_parking_meter 3
+    400042: Single_parking_meter 4
+    400044: Single_parking_meter 5
+    2300000: //RootNode
+    2300002: ID104
+    2300004: ID112
+    2300006: ID30
+    2300008: ID43
+    2300010: ID51
+    2300012: ID59
+    2300014: ID67
+    2300016: ID75
+    2300018: ID83
+    2300020: ID91
+    2300022: Single_parking_meter
+    2300024: Single_parking_meter 1
+    2300026: Single_parking_meter 2
+    2300028: Single_parking_meter 3
+    2300030: Single_parking_meter 4
+    2300032: Single_parking_meter 5
+    3300000: //RootNode
+    3300002: ID104
+    3300004: ID112
+    3300006: ID30
+    3300008: ID43
+    3300010: ID51
+    3300012: ID59
+    3300014: ID67
+    3300016: ID75
+    3300018: ID83
+    3300020: ID91
+    3300022: Single_parking_meter
+    3300024: Single_parking_meter 1
+    3300026: Single_parking_meter 2
+    3300028: Single_parking_meter 3
+    3300030: Single_parking_meter 4
+    3300032: Single_parking_meter 5
+    4300000: SketchUp
+    4300002: ID30
+    4300004: ID43
+    4300006: ID51
+    4300008: ID59
+    4300010: ID67
+    4300012: ID75
+    4300014: ID83
+    4300016: ID91
+    4300018: ID104
+    4300020: ID112
+    4300022: Single_parking_meter
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
