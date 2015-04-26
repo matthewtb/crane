@@ -69,6 +69,14 @@
      <Compile Include="Assets\Objective Scripts\GrnMovement.cs" />
      <Compile Include="Assets\OrnStop.cs" />
      <Compile Include="Assets\RedStop.cs" />
+     <Compile Include="Assets\SixenseInput\DemoScenes\Scripts\SixenseHand.cs" />
+     <Compile Include="Assets\SixenseInput\DemoScenes\Scripts\SixenseHandsController.cs" />
+     <Compile Include="Assets\SixenseInput\DemoScenes\Scripts\SixenseInputTest.cs" />
+     <Compile Include="Assets\SixenseInput\DemoScenes\Scripts\SixenseObjectController.cs" />
+     <Compile Include="Assets\SixenseInput\Scripts\SixenseInput.cs" />
+     <Compile Include="Assets\SixenseInput\Scripts\SixensePlugin.cs" />
+     <Compile Include="Assets\StopFar.cs" />
+     <Compile Include="Assets\StopNear.cs" />
      <Compile Include="Assets\ballAndRope.cs" />
      <Compile Include="Assets\ball_latch_script.cs" />
      <Compile Include="Assets\pivot.cs" />

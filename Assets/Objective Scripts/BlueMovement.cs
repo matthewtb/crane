@@ -10,27 +10,34 @@ public class BlueMovement : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKey(KeyCode.LeftArrow)) {
-			transform.RotateAround(Vector3.zero, Vector3.down, 20 *Time.deltaTime);
-		}
-		if (Input.GetKey(KeyCode.RightArrow)) {
-			transform.RotateAround(Vector3.zero, Vector3.up, 20 *Time.deltaTime);
-		}
-		if (Input.GetKey(KeyCode.UpArrow)) {
-			
-			blu.gameObject.transform.Translate(transform.forward * (Time.deltaTime * -30),Space.World);
-			
-		}
-		if (Input.GetKey(KeyCode.DownArrow)) {
-			
-			blu.gameObject.transform.Translate(transform.forward * (Time.deltaTime * 30),Space.World);
-			
-		}
-		if (Input.GetKey(KeyCode.A)) {
-			transform.localPosition += transform.up * 30 * Time.deltaTime;
-		}
-		if (Input.GetKey (KeyCode.S)) {
-			transform.localPosition += transform.up * -30 * Time.deltaTime;
+		for ( uint i = 0; i < 2; i++ )
+		{
+			if ( SixenseInput.Controllers[i] != null )
+			{
+				uint controllerNumber = i + 1;
+				if (SixenseInput.Controllers[1].JoystickX < 0) {
+					transform.RotateAround(Vector3.zero, Vector3.down, -(SixenseInput.Controllers[1].JoystickX) * 20 *Time.deltaTime);
+				}
+				if (SixenseInput.Controllers[1].JoystickX > 0) {
+					transform.RotateAround(Vector3.zero, Vector3.up, (SixenseInput.Controllers[1].JoystickX) * 20 *Time.deltaTime);
+				}
+				if (SixenseInput.Controllers[1].JoystickY > 0) {
+					
+					blu.gameObject.transform.Translate(transform.forward * (Time.deltaTime * (-30 * SixenseInput.Controllers[1].JoystickY)),Space.World);
+					
+				}
+				if (SixenseInput.Controllers[1].JoystickY < 0) {
+					
+					blu.gameObject.transform.Translate(transform.forward * (Time.deltaTime * (30 * -(SixenseInput.Controllers[1].JoystickY))),Space.World);
+					
+				}
+				if (SixenseInput.Controllers[0].JoystickY > 0) {
+					transform.localPosition += transform.up * 30 * Time.deltaTime;
+				}
+				if (SixenseInput.Controllers[0].JoystickY < 0) {
+					transform.localPosition += transform.up * -30 * Time.deltaTime;
+				}
+			}
 		}
 	}
 }
